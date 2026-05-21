@@ -7,6 +7,8 @@ y priorizar intervenciones por tenant.
 **Autores:** Andrés Alfonso, Daniela Uscátegui, Daniel Ricardo Marín, Manuel Alejandro Bayona  
 **Curso:** MIAD PAAD | Universidad de los Andes
 
+**Dashboard en línea:** https://fma-adoption-intelligence-4czccfxlxzkfdm6prmcns8.streamlit.app
+
 ---
 
 ## Estructura
